@@ -2,8 +2,6 @@ import React from 'react';
 import logo1 from './anakin.jpg';
 import logo2 from './anakin1.jpg';
 import logo3 from './anakin2.jpg';
-import logo4 from './mandalorian.jpg';
-import logo5 from './mandalorian1.jpg';
 import Carousel from 'react-bootstrap/Carousel';
 import './Acomodar.css';
 

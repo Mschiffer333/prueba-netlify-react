@@ -1,15 +1,10 @@
 import React from 'react';
 import './App.css';
-import logo1 from './revan.jpg';
+
 
 import Contacto from './components/Contacto';
 import Preventa from './components/Preventa';
 import Home from './components/Home';
-import Boton from './components/Button';
-import Media1 from './components/Media';
-import Navigation from './components/Navigation';
-import Imagen from './components/Image';
-import Paginas from './components/Pagination';
 import {BrowserRouter,Route, Switch} from 'react-router-dom';
 
 function App() {
